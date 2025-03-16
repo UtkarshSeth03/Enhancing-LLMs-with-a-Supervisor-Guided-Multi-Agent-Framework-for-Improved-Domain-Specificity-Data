@@ -1,0 +1,77 @@
+Date,Gender,Stage,Time,Winner,Loser,Winner Score,Loser Score,Winner Penalty,Loser Penalty
+Friday 09 Aug 2024,Womens,Gold Medal,23:30 IST,Netherlands,China,1,1,3,1
+Friday 09 Aug 2024,Womens,Bronze Medal,17:30 IST,Argentina,Belgium,2,2,3,1
+Thursday 08 Aug 2024,Mens,Gold Medal,22:30 IST,Netherlands,Germany,1,1,3,1
+Thursday 08 Aug 2024,Mens,Bronze Medal,17:30 IST,India,Spain,2,1,0,0
+Wednesday 07 Aug 2024,Womens,Semi-Final,22:30 IST,China,Belgium,1,1,3,2
+Wednesday 07 Aug 2024,Womens,Semi-Final,17:30 IST,Netherlands,Argentina,3,0,0,0
+Tuesday 06 Aug 2024,Mens,Semi-Final,22:30 IST,Germany,India,3,2,0,0
+Tuesday 06 Aug 2024,Mens,Semi-Final,17:30 IST,Netherlands,Spain,4,0,0,0
+Monday 05 Aug 2024,Womens,Quarter-Final,23:30 IST,Belgium,Spain,2,0,0,0
+Monday 05 Aug 2024,Womens,Quarter-Final,21:00 IST,Netherlands,Great Britain,3,1,0,0
+Monday 05 Aug 2024,Womens,Quarter-Final,16:00 IST,Argentina,Germany,1,1,2,0
+Monday 05 Aug 2024,Womens,Quarter-Final,13:30 IST,China,Australia,3,2,0,0
+Sunday 04 Aug 2024,Mens,Quarter-Final,23:30 IST,Germany,Argentina,3,2,0,0
+Sunday 04 Aug 2024,Mens,Quarter-Final,21:00 IST,Netherlands,Australia,2,0,0,0
+Sunday 04 Aug 2024,Mens,Quarter-Final,16:00 IST,Spain,Belgium,3,2,0,0
+Sunday 04 Aug 2024,Mens,Quarter-Final,13:30 IST,India,Great Britain,1,1,4,2
+Saturday 03 Aug 2024,Womens,,23:15 IST,Belgium,Germany,2,0,0,0
+Saturday 03 Aug 2024,Womens,,20:30 IST,China,France,7,1,0,0
+Saturday 03 Aug 2024,Womens,,16:45 IST,United States,South Africa,1,0,0,0
+Saturday 03 Aug 2024,Womens,,16:15 IST,Australia,Spain,3,1,0,0
+Saturday 03 Aug 2024,Womens,,14:00 IST,Netherlands,Japan,5,1,0,0
+Saturday 03 Aug 2024,Womens,,13:30 IST,Argentina,Great Britain,3,0,0,0
+Friday 02 Aug 2024,Mens,,23:45 IST,Germany,Great Britain,2,1,0,0
+Friday 02 Aug 2024,Mens,,23:15 IST,South Africa,France,5,2,0,0
+Friday 02 Aug 2024,Mens,,21:00 IST,Argentina,Belgium,3,3,0,0
+Friday 02 Aug 2024,Mens,,20:30 IST,Ireland,New Zealand,2,1,0,0
+Friday 02 Aug 2024,Mens,,16:45 IST,India,Australia,3,2,0,0
+Friday 02 Aug 2024,Womens,,16:15 IST,Netherlands,Belgium,3,1,0,0
+Friday 02 Aug 2024,Mens,,14:00 IST,Netherlands,Spain,5,3,0,0
+Friday 02 Aug 2024,Womens,,13:30 IST,Germany,China,4,2,0,0
+Thursday 01 Aug 2024,Womens,,23:45 IST,Australia,Argentina,3,3,0,0
+Thursday 01 Aug 2024,Womens,,23:15 IST,Japan,France,1,0,0,0
+Thursday 01 Aug 2024,Womens,,21:00 IST,Spain,South Africa,1,0,0,0
+Thursday 01 Aug 2024,Womens,,20:30 IST,Great Britain,United States,5,2,0,0
+Thursday 01 Aug 2024,Mens,,16:45 IST,Argentina,Ireland,3,1,0,0
+Thursday 01 Aug 2024,Mens,,16:15 IST,Great Britain,France,2,1,0,0
+Thursday 01 Aug 2024,Mens,,14:00 IST,Australia,New Zealand,5,0,0,0
+Thursday 01 Aug 2024,Mens,,13:30 IST,Belgium,India,2,1,0,0
+Wednesday 31 Jul 2024,Womens,,23:45 IST,Netherlands,China,3,0,0,0
+Wednesday 31 Jul 2024,Mens,,23:15 IST,Spain,South Africa,3,0,0,0
+Wednesday 31 Jul 2024,Mens,,21:00 IST,Germany,Netherlands,1,0,0,0
+Wednesday 31 Jul 2024,Womens,,20:30 IST,Belgium,Japan,3,0,0,0
+Wednesday 31 Jul 2024,Womens,,16:45 IST,Australia,United States,3,0,0,0
+Wednesday 31 Jul 2024,Womens,,16:15 IST,Germany,France,5,1,0,0
+Wednesday 31 Jul 2024,Womens,,14:00 IST,Great Britain,South Africa,2,1,0,0
+Wednesday 31 Jul 2024,Womens,,13:30 IST,Argentina,Spain,2,1,0,0
+Tuesday 30 Jul 2024,Mens,,23:15 IST,Belgium,Australia,6,2,0,0
+Tuesday 30 Jul 2024,Mens,,20:30 IST,Argentina,New Zealand,2,0,0,0
+Tuesday 30 Jul 2024,Mens,,16:45 IST,India,Ireland,2,0,0,0
+Tuesday 30 Jul 2024,Mens,,16:15 IST,Netherlands,Great Britain,2,2,0,0
+Tuesday 30 Jul 2024,Mens,,14:00 IST,Germany,South Africa,5,1,0,0
+Tuesday 30 Jul 2024,Mens,,13:30 IST,France,Spain,3,3,0,0
+Monday 29 Jul 2024,Womens,,23:45 IST,Belgium,France,5,0,0,0
+Monday 29 Jul 2024,Womens,,23:15 IST,Netherlands,Germany,2,1,0,0
+Monday 29 Jul 2024,Womens,,21:00 IST,Argentina,South Africa,4,2,0,0
+Monday 29 Jul 2024,Womens,,20:30 IST,Australia,Great Britain,4,0,0,0
+Monday 29 Jul 2024,Womens,,16:45 IST,United States,Spain,1,1,0,0
+Monday 29 Jul 2024,Mens,,16:15 IST,Argentina,India,1,1,0,0
+Monday 29 Jul 2024,Womens,,14:00 IST,China,Japan,5,0,0,0
+Monday 29 Jul 2024,Mens,,13:30 IST,Australia,Ireland,2,1,0,0
+Sunday 28 Jul 2024,Mens,,23:45 IST,Great Britain,South Africa,2,2,0,0
+Sunday 28 Jul 2024,Mens,,23:15 IST,Netherlands,France,4,0,0,0
+Sunday 28 Jul 2024,Mens,,21:00 IST,Belgium,New Zealand,2,1,0,0
+Sunday 28 Jul 2024,Mens,,20:30 IST,Spain,Germany,2,0,0,0
+Sunday 28 Jul 2024,Womens,,16:45 IST,Spain,Great Britain,2,1,0,0
+Sunday 28 Jul 2024,Womens,,16:15 IST,Australia,South Africa,2,1,0,0
+Sunday 28 Jul 2024,Womens,,14:00 IST,Germany,Japan,2,0,0,0
+Sunday 28 Jul 2024,Womens,,13:30 IST,Belgium,China,2,1,0,0
+Saturday 27 Jul 2024,Womens,,23:45 IST,Netherlands,France,6,2,0,0
+Saturday 27 Jul 2024,Womens,,23:15 IST,Argentina,United States,4,1,0,0
+Saturday 27 Jul 2024,Mens,,21:00 IST,India,New Zealand,3,2,0,0
+Saturday 27 Jul 2024,Mens,,20:30 IST,Germany,France,8,2,0,0
+Saturday 27 Jul 2024,Mens,,16:45 IST,Australia,Argentina,1,0,0,0
+Saturday 27 Jul 2024,Mens,,16:15 IST,Netherlands,South Africa,5,3,0,0
+Saturday 27 Jul 2024,Mens,,14:00 IST,Belgium,Ireland,2,0,0,0
+Saturday 27 Jul 2024,Mens,,13:30 IST,Great Britain,Spain,4,0,0,0
